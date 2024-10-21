@@ -12,9 +12,9 @@ In addition to addressing the technical aspects of AI model implementation, the 
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-Official Full Name	Student ID (MTech Applicable)	Work Items (Who Did What)	Email (Optional)
+Official Full Name	Student ID 	   Work Items	             Email 
 
-Lu Mingrui	A0307208L	All the tasks involved	E1391119@nus.edu.sg
+    Lu Mingrui	    A0307208L	All the tasks involved	E1391119@nus.edu.sg
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
@@ -68,23 +68,22 @@ Recommended Sections for Stance Detection System Project Report:
 
 1. Introduction to the Problem of Fake News
 2. Market Research & Business Case
-3. Project Objectives & Success Criteria
-4. System Design and Development
+3. System Design and Development
   Overview of architecture: input, preprocessing, feature extraction, model training, evaluation, and output.
-5. Model Training & Implementation
+4. Model Training & Implementation
   Description of AI models used: SVM, XGBoost, CatBoost, LightGBM, and BERT.
   Details on training, hyperparameter tuning, and testing.
-6. Evaluation and Results
+5. Evaluation and Results
   System performance: metrics (accuracy, precision, recall, F1-score), cross-validation, confusion matrix.
-7. User Interface Demonstration
+6. User Interface Demonstration
   Description of user interface and interaction.
-8. Conclusion
+7. Conclusion
   Summary of findings, recommendations, and future potential.
 
 Appendices:
 Appendix 1: Project Proposal
 Appendix 2: Installation and User Guide
-Appendix 3: Individual Reflections:
+Appendix 3: Individual Reflection:
 Appendix 4: Peer review form
 
 
