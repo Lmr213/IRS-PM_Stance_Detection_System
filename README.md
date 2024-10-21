@@ -12,15 +12,15 @@ In addition to addressing the technical aspects of AI model implementation, the 
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-Official / Full Name / Student ID / Work Items / Email 
+Official Full Name / Student ID / Work Items / Email 
 
-Lu Mingrui / A0307208L / All the tasks involved	/ E1391119@nus.edu.sg
+Lu Mingrui / A0307208L / All the tasks involved	/ E1391119@u.nus.edu
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 
 ## SECTION 5 : USER GUIDE
-Refer to file <Stance Detection System for combating Fake News - User Guide> in project report at Github Folder: Project Report & Appendices 
+Refer to file <Stance Detection System for combating Fake News - User Guide> at Github Folder: Project Report & Appendices 
 
 
 #### [ 1 ] To run the system using a local machine:
