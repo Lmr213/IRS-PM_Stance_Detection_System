@@ -23,41 +23,41 @@ Lu Mingrui	A0307208L	All the tasks involved	E1391119@nus.edu.sg
 Refer to file <Stance Detection System for combating Fake News - User Guide> in project report at Github Folder: Project Report & Appendices 
 
 
-[ 1 ] To run the system using a local machine:
+#### [ 1 ] To run the system using a local machine:
 Prerequisites:
 
 Python 3.x
 Terminal/command-line interface
 Steps:
 
-Clone the repository:
+1. Clone the repository:
 $ git clone https://github.com/your-repo/Stance-Detection-System.git
 
-Install required packages:
+2. Install required packages:
 $ pip install -r requirements.txt
 
-Download additional resources:
+3. Download additional resources:
 $ python -m nltk.downloader vader_lexicon
 Download Google Word2Vec model and place the .bin file in the google_model directory.
 (Link: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?pli=1&resourcekey=0-wjGZdNAUop6WykTtMip30g)
 
-Update the paths in predict.py and word_to_vec_feature_generator.py to your local directories.
+4. Update the paths in predict.py and word_to_vec_feature_generator.py to your local directories.
 
-Set up the database:
+5. Set up the database:
 $ python manage.py makemigrations
 $ python manage.py migrate
 
-Start the server:
+6. Start the server:
 $ python manage.py runserver 8000
 
-Access the application:
+7. Access the application:
 Open a browser and go to http://127.0.0.1:8000/
 
-[ 2 ] Optional: Re-train the model
-Navigate to the project root:
+#### [ 2 ] Optional: Re-train the model
+1. Navigate to the project root:
 $ cd Stance-Detection-System
 
-Re-train the model:
+2. Re-train the model:
 $ python fnc_kfold.py
 
 
