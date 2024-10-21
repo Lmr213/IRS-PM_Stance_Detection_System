@@ -81,9 +81,13 @@ Recommended Sections for Stance Detection System Project Report:
   Summary of findings, recommendations, and future potential.
 
 Appendices:
+
 Appendix 1: Project Proposal
+
 Appendix 2: Installation and User Guide
-Appendix 3: Individual Reflection:
+
+Appendix 3: Individual Reflection
+
 Appendix 4: Peer review form
 
 
