@@ -24,7 +24,7 @@ Refer to file <Stance Detection System for combating Fake News - User Guide> in 
 
 
 ### SECTION 6 : PROJECT REPORT / PAPER
-Refer to project report at Github Folder: ProjectReport
+Refer to project report at Github Folder: Project Report & Appendices
 
 Recommended Sections for Project Report / Paper:
 
@@ -44,9 +44,5 @@ Appendix of report: 1-2 pages individual project report per project member, incl
 Appendix of report: List of Abbreviations (if applicable)
 Appendix of report: References (if applicable)
 
-### SECTION 7 : MISCELLANEOUS
-Refer to Github Folder: Miscellaneous
-
-HDB_BTO_SURVEY.xlsx
-Results of survey
-Insights derived, which were subsequently used in our system
+### SECTION 7 : APPENDICES
+All appendices can be found in the GitHub folder: Project Report & Appendices
