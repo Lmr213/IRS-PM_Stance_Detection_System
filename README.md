@@ -1,8 +1,8 @@
-### SECTION 1 : PROJECT TITLE
+## SECTION 1 : PROJECT TITLE
 Stance Detection System for combating Fake News
 
 
-### SECTION 2 : EXECUTIVE SUMMARY
+## SECTION 2 : EXECUTIVE SUMMARY
 
 In today’s information-driven society, the spread of misinformation, particularly fake news, has become a critical challenge that affects public trust, policy-making, and societal well-being. To address this issue, my project focuses on developing a Stance Detection System that automatically analyzes and classifies the relationship between a news headline and its corresponding body text. This system utilises advanced AI models, including SVM, XGBoost, LightGBM, CatBoost, and BERT, to provide highly accurate, real-time analysis aimed at identifying misleading or false information.
 
@@ -10,20 +10,58 @@ Through data preprocessing, feature engineering, and model training, we construc
 
 In addition to addressing the technical aspects of AI model implementation, the project highlights the broader societal impact of combating misinformation. The use of traditional machine learning algorithms with deep learning models like BERT provides a balanced, scalable approach that is well-suited to real-world applications. This project serves as an example of how AI can be used to bridge the gap between academic research and practical tools, offering a significant contribution to the ongoing fight against fake news. Through this effort, I demonstrate how AI-driven solutions can enhance the reliability and efficiency of information verification processes in the digital age.
 
-### SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 Official Full Name	Student ID (MTech Applicable)	Work Items (Who Did What)	Email (Optional)
 
 Lu Mingrui	A0307208L	All the tasks involved	E1391119@nus.edu.sg
 
-### SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 
-### SECTION 5 : USER GUIDE
+## SECTION 5 : USER GUIDE
 Refer to file <Stance Detection System for combating Fake News - User Guide> in project report at Github Folder: Project Report & Appendices 
 
 
-### SECTION 6 : PROJECT REPORT / PAPER
+[ 1 ] To run the system using a local machine:
+Prerequisites:
+
+Python 3.x
+Terminal/command-line interface
+Steps:
+
+Clone the repository:
+$ git clone https://github.com/your-repo/Stance-Detection-System.git
+
+Install required packages:
+$ pip install -r requirements.txt
+
+Download additional resources:
+$ python -m nltk.downloader vader_lexicon
+Download Google Word2Vec model and place the .bin file in the google_model directory.
+(Link: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?pli=1&resourcekey=0-wjGZdNAUop6WykTtMip30g)
+
+Update the paths in predict.py and word_to_vec_feature_generator.py to your local directories.
+
+Set up the database:
+$ python manage.py makemigrations
+$ python manage.py migrate
+
+Start the server:
+$ python manage.py runserver 8000
+
+Access the application:
+Open a browser and go to http://127.0.0.1:8000/
+
+[ 2 ] Optional: Re-train the model
+Navigate to the project root:
+$ cd Stance-Detection-System
+
+Re-train the model:
+$ python fnc_kfold.py
+
+
+## SECTION 6 : PROJECT REPORT / PAPER
 Refer to project report at Github Folder: Project Report & Appendices
 
 Recommended Sections for Project Report / Paper:
@@ -44,5 +82,5 @@ Appendix of report: 1-2 pages individual project report per project member, incl
 Appendix of report: List of Abbreviations (if applicable)
 Appendix of report: References (if applicable)
 
-### SECTION 7 : APPENDICES
+## SECTION 7 : APPENDICES
 All appendices can be found in the GitHub folder: Project Report & Appendices
