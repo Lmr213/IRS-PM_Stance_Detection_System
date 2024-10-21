@@ -61,26 +61,30 @@ $ cd Stance-Detection-System
 $ python fnc_kfold.py
 
 
-## SECTION 6 : PROJECT REPORT / PAPER
+## SECTION 6 : PROJECT REPORT / APPENDICES
 Refer to project report at Github Folder: Project Report & Appendices
 
-Recommended Sections for Project Report / Paper:
+Recommended Sections for Stance Detection System Project Report:
 
-Executive Summary / Paper Abstract
-Sponsor Company Introduction (if applicable)
-Business Problem Background
-Market Research
-Project Objectives & Success Measurements
-Project Solution (To detail domain modelling & system design.)
-Project Implementation (To detail system development & testing approach.)
-Project Performance & Validation (To prove project objectives are met.)
-Project Conclusions: Findings & Recommendation
-Appendix of report: Project Proposal
-Appendix of report: Mapped System Functionalities against knowledge, techniques and skills of modular courses: MR, RS, CGS
-Appendix of report: Installation and User Guide
-Appendix of report: 1-2 pages individual project report per project member, including: Individual reflection of project journey: (1) personal contribution to group project (2) what learnt is most useful for you (3) how you can apply the knowledge and skills in other situations or your workplaces
-Appendix of report: List of Abbreviations (if applicable)
-Appendix of report: References (if applicable)
+1. Introduction to the Problem of Fake News
+2. Market Research & Business Case
+3. Project Objectives & Success Criteria
+4. System Design and Development
+  Overview of architecture: input, preprocessing, feature extraction, model training, evaluation, and output.
+5. Model Training & Implementation
+  Description of AI models used: SVM, XGBoost, CatBoost, LightGBM, and BERT.
+  Details on training, hyperparameter tuning, and testing.
+6. Evaluation and Results
+  System performance: metrics (accuracy, precision, recall, F1-score), cross-validation, confusion matrix.
+7. User Interface Demonstration
+  Description of user interface and interaction.
+8. Conclusion
+  Summary of findings, recommendations, and future potential.
 
-## SECTION 7 : APPENDICES
-All appendices can be found in the GitHub folder: Project Report & Appendices
+Appendices:
+Appendix 1: Project Proposal
+Appendix 2: Installation and User Guide
+Appendix 3: Individual Reflections:
+Appendix 4: Peer review form
+
+
