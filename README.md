@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-Stance Detection System for combating Fake News
+### Stance Detection System for combating Fake News
 
 
 ## SECTION 2 : EXECUTIVE SUMMARY
