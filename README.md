@@ -11,7 +11,9 @@ Through data preprocessing, feature engineering, and model training, we construc
 In addition to addressing the technical aspects of AI model implementation, the project highlights the broader societal impact of combating misinformation. The use of traditional machine learning algorithms with deep learning models like BERT provides a balanced, scalable approach that is well-suited to real-world applications. This project serves as an example of how AI can be used to bridge the gap between academic research and practical tools, offering a significant contribution to the ongoing fight against fake news. Through this effort, I demonstrate how AI-driven solutions can enhance the reliability and efficiency of information verification processes in the digital age.
 
 ### SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+
 Official Full Name	Student ID (MTech Applicable)	Work Items (Who Did What)	Email (Optional)
+
 Lu Mingrui	A0307208L	All the tasks involved	E1391119@nus.edu.sg
 
 ### SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
