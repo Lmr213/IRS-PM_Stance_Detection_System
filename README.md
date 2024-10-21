@@ -12,9 +12,8 @@ In addition to addressing the technical aspects of AI model implementation, the 
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-Official Full Name	Student ID 	   Work Items	             Email 
-
-    Lu Mingrui	    A0307208L	All the tasks involved	E1391119@nus.edu.sg
+Official Full Name	Student ID 	   Work Items	   Email 
+Lu Mingrui	 A0307208L	 All the tasks involved	 E1391119@nus.edu.sg
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
