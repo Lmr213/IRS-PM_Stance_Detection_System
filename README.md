@@ -18,6 +18,8 @@ Lu Mingrui / A0307208L / All the tasks involved	/ E1391119@u.nus.edu
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
+Refer to files at Github Folder: Videos
+
 
 ## SECTION 5 : USER GUIDE
 Refer to file <Stance Detection System for combating Fake News - User Guide> at Github Folder: Project Report & Appendices 
