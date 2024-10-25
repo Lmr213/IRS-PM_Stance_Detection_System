@@ -18,7 +18,7 @@ Lu Mingrui / A0307208L / All the tasks involved	/ E1391119@u.nus.edu
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-Note: The original video files are too large to upload here. Please refer to the submission folder for the videos. The 'video' folder here contains only the accompanying slides."
+Note: The original video files are too large to upload here. Please refer to the submission folder for the videos. The video folder here contains only the accompanying slides."
 
 
 ## SECTION 5 : USER GUIDE
